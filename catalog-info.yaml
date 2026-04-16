@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gateway-svc-4301
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/gateway-svc-4301
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
